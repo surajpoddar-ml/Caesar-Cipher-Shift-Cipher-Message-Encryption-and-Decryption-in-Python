@@ -77,7 +77,6 @@ Result: KHOOR ZRUOG
 ## 👨‍💻 Author
 
 **Suraj Poddar**
-Full-Stack Developer | Cryptography Enthusiast
 
 ---
 
